@@ -1,0 +1,2 @@
+# DailyScripts
+CTFDailyScripts
